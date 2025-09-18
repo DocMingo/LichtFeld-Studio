@@ -30,3 +30,5 @@ build*/**
 *.pt
 !weights/*.pt
 lichtfeld-studio.aps
+/libtorch-release.zip
+/vcpkg-manifest-install.log
